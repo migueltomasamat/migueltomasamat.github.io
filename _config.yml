@@ -29,7 +29,7 @@ twitter_username: liltxy
 github_username:  migueltomasamat
 
 # Build settings
-theme: hyde
+theme: cayman
 plugins:
   - jekyll-feed
 
