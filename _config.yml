@@ -29,6 +29,7 @@ twitter_username: liltxy
 github_username:  migueltomasamat
 
 # Build settings
+theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
